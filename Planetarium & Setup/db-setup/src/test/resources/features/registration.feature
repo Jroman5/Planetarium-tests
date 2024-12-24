@@ -1,4 +1,5 @@
 Feature: Planetarium User Registration Positive and negative paths
+
   Scenario Outline: User Registration
     Given the new user is on the login page
     When the user clicks the register link

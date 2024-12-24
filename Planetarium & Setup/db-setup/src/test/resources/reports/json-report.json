@@ -1,0 +1,2949 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2024-12-24T22:35:14.193Z",
+        "before": [
+          {
+            "result": {
+              "duration": 227023400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Successful Moon Creation",
+        "description": "",
+        "id": "user-moon-creation;successful-moon-creation;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user selects Moon creation",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user inputs valid Moon name 1aA _-",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user inputs valid planet_id 1",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the table should expect Moon created Successfully",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:14.474Z",
+        "before": [
+          {
+            "result": {
+              "duration": 13159800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Successful Moon Creation",
+        "description": "",
+        "id": "user-moon-creation;successful-moon-creation;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user selects Moon creation",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user inputs valid Moon name 1aA _-",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user inputs valid planet_id 1",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the table should expect Moon created Successfully",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:14.493Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14437600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Successful Moon Creation",
+        "description": "",
+        "id": "user-moon-creation;successful-moon-creation;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user selects Moon creation",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user inputs valid Moon name 1aA _-",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user inputs valid planet_id 1",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the table should expect invalid file type",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:14.518Z",
+        "before": [
+          {
+            "result": {
+              "duration": 18405500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Successful Moon Creation",
+        "description": "",
+        "id": "user-moon-creation;successful-moon-creation;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user selects Moon creation",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user inputs valid Moon name Abcdefghi1234567890123456789_-",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user inputs valid planet_id 1",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the table should expect invalid moon name Alert",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:14.539Z",
+        "before": [
+          {
+            "result": {
+              "duration": 12776900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Successful Moon Creation",
+        "description": "",
+        "id": "user-moon-creation;successful-moon-creation;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user selects Moon creation",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user inputs valid Moon name 1aA _-@",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user inputs valid planet_id 1",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the table should expect invalid moon name",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:14.557Z",
+        "before": [
+          {
+            "result": {
+              "duration": 15011000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "Successful Moon Creation",
+        "description": "",
+        "id": "user-moon-creation;successful-moon-creation;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user selects Moon creation",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user inputs valid Moon name 1aA _-",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1222700,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user inputs valid planet_id 1",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the table should expect invalid moon name",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:14.577Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14042000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Successful Moon Creation",
+        "description": "",
+        "id": "user-moon-creation;successful-moon-creation;;8",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user selects Moon creation",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user inputs valid Moon name 1aA _-",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user inputs valid planet_id 55",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the table should expect invalid planet id",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "User Moon Creation",
+    "description": "",
+    "id": "user-moon-creation",
+    "keyword": "Feature",
+    "uri": "classpath:features/Moon_creation.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2024-12-24T22:35:14.599Z",
+        "before": [
+          {
+            "result": {
+              "duration": 12569700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 2,
+        "name": "Valid Moon name Deletion",
+        "description": "",
+        "id": "user-moon-deletion;valid-moon-name-deletion",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "the User is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "the user chooses to delete a Moon",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "inputs a valid name",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the table should refresh and reflect the changes",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:14.619Z",
+        "before": [
+          {
+            "result": {
+              "duration": 12072400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Invalid Moon Name Deletion",
+        "description": "",
+        "id": "user-moon-deletion;invalid-moon-name-deletion",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "the user chooses to delete a moon",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "inputs an invalid name",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "the browser should show an alert message for an invalid name",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "should return to the home page",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "User Moon Deletion",
+    "description": "",
+    "id": "user-moon-deletion",
+    "keyword": "Feature",
+    "uri": "classpath:features/Moon_deletion.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2024-12-24T22:35:14.636Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14081100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Successful Planet Creation",
+        "description": "",
+        "id": "user-planet-creation;successful-planet-creation;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "the user selects planet creation",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user inputs planet name 1aA _-",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user inputs fileType .jpeg",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user should expect Planet created Successfully",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:14.656Z",
+        "before": [
+          {
+            "result": {
+              "duration": 12904400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Successful Planet Creation",
+        "description": "",
+        "id": "user-planet-creation;successful-planet-creation;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "the user selects planet creation",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user inputs planet name 1aA _-",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user inputs fileType .png",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user should expect Planet created Successfully",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:14.672Z",
+        "before": [
+          {
+            "result": {
+              "duration": 12696100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Successful Planet Creation",
+        "description": "",
+        "id": "user-planet-creation;successful-planet-creation;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "the user selects planet creation",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user inputs planet name 1aA _-",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user inputs fileType .txt",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user should expect invalid file type",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:14.688Z",
+        "before": [
+          {
+            "result": {
+              "duration": 12795400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Successful Planet Creation",
+        "description": "",
+        "id": "user-planet-creation;successful-planet-creation;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "the user selects planet creation",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user inputs planet name Abcdefghi1234567890123456789_-",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user inputs fileType .jpeg",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user should expect Invalid planet name Alert",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:14.705Z",
+        "before": [
+          {
+            "result": {
+              "duration": 12997000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Successful Planet Creation",
+        "description": "",
+        "id": "user-planet-creation;successful-planet-creation;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "the user selects planet creation",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user inputs planet name 1aA _-@",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user inputs fileType .png",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user should expect Invalid planet name Alert",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:14.721Z",
+        "before": [
+          {
+            "result": {
+              "duration": 12470300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Successful Planet Creation",
+        "description": "",
+        "id": "user-planet-creation;successful-planet-creation;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "the user selects planet creation",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1006700,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user inputs planet name 1aA _-",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user inputs fileType .png",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user should expect Invalid planet name Alert",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "User Planet Creation",
+    "description": "",
+    "id": "user-planet-creation",
+    "keyword": "Feature",
+    "uri": "classpath:features/Planet_creation.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2024-12-24T22:35:14.738Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14273800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 2,
+        "name": "Valid Planet Name Planet Deletion",
+        "description": "",
+        "id": "user-planet-deletion;valid-planet-name-planet-deletion",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "the User is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "the user chooses to delete a Moon",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "inputs a valid name",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the table should refresh and reflect the changes",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:14.758Z",
+        "before": [
+          {
+            "result": {
+              "duration": 15493600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Invalid Planet Name Planet Deletion",
+        "description": "",
+        "id": "user-planet-deletion;invalid-planet-name-planet-deletion",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "the user is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "the user chooses to delete a moon",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "inputs an invalid name",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "the browser should show an alert message for an invalid name",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "should return to the home page",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "User Planet Deletion",
+    "description": "",
+    "id": "user-planet-deletion",
+    "keyword": "Feature",
+    "uri": "classpath:features/Planet_deletion.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2024-12-24T22:35:14.778Z",
+        "before": [
+          {
+            "result": {
+              "duration": 15702700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 2,
+        "name": "Authorized User access to Home Page",
+        "description": "",
+        "id": "planetarium-home-page;authorized-user-access-to-home-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "the user is on the login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "the user logs in",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user should see their planets",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user should see their moons",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user should see a greeting on the home page",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:14.798Z",
+        "before": [
+          {
+            "result": {
+              "duration": 15999500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "Unauthorized User Access to Home Page",
+        "description": "",
+        "id": "planetarium-home-page;unauthorized-user-access-to-home-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "the user is not logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "the user tries to access the home page directly",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "the user should be denied access",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Planetarium Home Page",
+    "description": "",
+    "id": "planetarium-home-page",
+    "keyword": "Feature",
+    "uri": "classpath:features/home_page.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2024-12-24T22:35:14.822Z",
+        "before": [
+          {
+            "result": {
+              "duration": 11826000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "User Login",
+        "description": "",
+        "id": "planetarium-user-login;user-login;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 56394900,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "the user is on the login page.",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 113299800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "the user provides the username \"Batman\".",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Batman\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.revature.steps.LoginSteps.the_user_provides_the_username(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 124165000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the user provides the password \"Iamthenight1939\".",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Iamthenight1939\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.revature.steps.LoginSteps.the_user_provides_the_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 19428100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "the user submits their credentials.",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_user_submits_their_credentials()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for alert to be present (tried for 2 second(s) with 500 milliseconds interval)\nBuild info: version: \u00274.25.0\u0027, revision: \u00278a8aea2337\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.25\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\\Users\\jonro\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63070}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63070/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: bcf45435cbfd745113123058e6881a28\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)\r\n\tat com.revature.steps.LoginSteps.the_user_should_expect_alert(LoginSteps.java:139)\r\n\tat ✽.the user should expect \"\" alert.(classpath:features/login.feature:7)\r\n",
+              "duration": 2078663200,
+              "status": "failed"
+            },
+            "line": 7,
+            "name": "the user should expect \"\" alert.",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 23
+                }
+              ],
+              "location": "com.revature.steps.LoginSteps.the_user_should_expect_alert(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user should be redirected to Home page.",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_user_should_be_redirected_to_Home_page()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:17.235Z",
+        "before": [
+          {
+            "result": {
+              "duration": 11718200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "User Login",
+        "description": "",
+        "id": "planetarium-user-login;user-login;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 32304800,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "the user is on the login page.",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 94853100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "the user provides the username \"Batman\".",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Batman\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.revature.steps.LoginSteps.the_user_provides_the_username(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 61740700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the user provides the password \"b0Ts\".",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"b0Ts\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.revature.steps.LoginSteps.the_user_provides_the_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12285900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "the user submits their credentials.",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_user_submits_their_credentials()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid [C]redentials\u003e but was:\u003cInvalid [c]redentials\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.LoginSteps.the_user_should_expect_alert(LoginSteps.java:141)\r\n\tat ✽.the user should expect \"Invalid Credentials\" alert.(classpath:features/login.feature:7)\r\n",
+              "duration": 515770900,
+              "status": "failed"
+            },
+            "line": 7,
+            "name": "the user should expect \"Invalid Credentials\" alert.",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Invalid Credentials\"",
+                  "offset": 23
+                }
+              ],
+              "location": "com.revature.steps.LoginSteps.the_user_should_expect_alert(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user should be redirected to login page.",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_user_should_be_redirected_to_login_page()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:17.966Z",
+        "before": [
+          {
+            "result": {
+              "duration": 11884800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "User Login",
+        "description": "",
+        "id": "planetarium-user-login;user-login;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Invalid credentials}\n  (Session info: chrome\u003d131.0.6778.205): Invalid credentials\nBuild info: version: \u00274.25.0\u0027, revision: \u00278a8aea2337\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.25\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [bcf45435cbfd745113123058e6881a28, get {url\u003dhttp://localhost:8080/}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\\Users\\jonro\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63070}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63070/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: bcf45435cbfd745113123058e6881a28\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:136)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:313)\r\n\tat com.revature.pom.LoginPage.goToLoginPage(LoginPage.java:32)\r\n\tat com.revature.steps.LoginSteps.the_user_is_on_the_login_page(LoginSteps.java:111)\r\n\tat ✽.the user is on the login page.(classpath:features/login.feature:3)\r\n",
+              "duration": 8818400,
+              "status": "failed"
+            },
+            "line": 3,
+            "name": "the user is on the login page.",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "the user provides the username \"Robin\".",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Robin\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.revature.steps.LoginSteps.the_user_provides_the_username(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user provides the password \"Iamthenight1939\".",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Iamthenight1939\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.revature.steps.LoginSteps.the_user_provides_the_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user submits their credentials.",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_user_submits_their_credentials()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user should expect \"Invalid Credentials\" alert.",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Invalid Credentials\"",
+                  "offset": 23
+                }
+              ],
+              "location": "com.revature.steps.LoginSteps.the_user_should_expect_alert(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1001300,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user should be redirected to login page.",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_user_should_be_redirected_to_login_page()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:17.992Z",
+        "before": [
+          {
+            "result": {
+              "duration": 10768200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "User Login",
+        "description": "",
+        "id": "planetarium-user-login;user-login;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 21304900,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "the user is on the login page.",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 76566700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "the user provides the username \"Robin\".",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Robin\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.revature.steps.LoginSteps.the_user_provides_the_username(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 62783400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the user provides the password \"b0Ts\".",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"b0Ts\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.revature.steps.LoginSteps.the_user_provides_the_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12999400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "the user submits their credentials.",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_user_submits_their_credentials()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid [C]redentials\u003e but was:\u003cInvalid [c]redentials\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.LoginSteps.the_user_should_expect_alert(LoginSteps.java:141)\r\n\tat ✽.the user should expect \"Invalid Credentials\" alert.(classpath:features/login.feature:7)\r\n",
+              "duration": 515156200,
+              "status": "failed"
+            },
+            "line": 7,
+            "name": "the user should expect \"Invalid Credentials\" alert.",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Invalid Credentials\"",
+                  "offset": 23
+                }
+              ],
+              "location": "com.revature.steps.LoginSteps.the_user_should_expect_alert(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user should be redirected to login page.",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_user_should_be_redirected_to_login_page()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:18.695Z",
+        "before": [
+          {
+            "result": {
+              "duration": 11996000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "Valid User log out",
+        "description": "",
+        "id": "planetarium-user-login;valid-user-log-out",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Invalid credentials}\n  (Session info: chrome\u003d131.0.6778.205): Invalid credentials\nBuild info: version: \u00274.25.0\u0027, revision: \u00278a8aea2337\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.25\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [bcf45435cbfd745113123058e6881a28, get {url\u003dhttp://localhost:8080/}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\\Users\\jonro\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63070}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63070/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: bcf45435cbfd745113123058e6881a28\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:136)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:313)\r\n\tat com.revature.pom.LoginPage.goToLoginPage(LoginPage.java:32)\r\n\tat com.revature.pom.LoginPage.setUpLoggedInUser(LoginPage.java:47)\r\n\tat com.revature.steps.LoginSteps.the_user_is_in_the_logged_in(LoginSteps.java:165)\r\n\tat ✽.the user is in the logged in(classpath:features/login.feature:20)\r\n",
+              "duration": 7004500,
+              "status": "failed"
+            },
+            "line": 20,
+            "name": "the user is in the logged in",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_user_is_in_the_logged_in()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1188500,
+              "status": "skipped"
+            },
+            "line": 21,
+            "name": "in the home page",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.in_the_home_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 22,
+            "name": "the User chooses to log out",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_User_chooses_to_log_out()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 23,
+            "name": "the User should be logged out",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_User_should_be_logged_out()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 24,
+            "name": "the user should be redirected to the log in page",
+            "match": {
+              "location": "com.revature.steps.LoginSteps.the_user_should_be_redirected_to_the_log_in_page()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Planetarium User Login",
+    "description": "",
+    "id": "planetarium-user-login",
+    "keyword": "Feature",
+    "uri": "classpath:features/login.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2024-12-24T22:35:18.720Z",
+        "before": [
+          {
+            "result": {
+              "duration": 11549900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "User Registration",
+        "description": "",
+        "id": "planetarium-user-registration-positive-and-negative-paths;user-registration;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the new user is on the login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user clicks the register link",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user provides a \"Super_man-2001\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user provides a \"Krypton-was_2000\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user submits valid credentials",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "the user should get a browser alert saying \"Account create successfully alert\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "should be redirected to the login page.",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:18.738Z",
+        "before": [
+          {
+            "result": {
+              "duration": 11064700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "User Registration",
+        "description": "",
+        "id": "planetarium-user-registration-positive-and-negative-paths;user-registration;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the new user is on the login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user clicks the register link",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user provides a \"Batman\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user provides a \"Krypton-was_2000\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user submits valid credentials",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "the user should get a browser alert saying \"Invalid username alert\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "should be redirected to the login page.",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:18.752Z",
+        "before": [
+          {
+            "result": {
+              "duration": 11975300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "User Registration",
+        "description": "",
+        "id": "planetarium-user-registration-positive-and-negative-paths;user-registration;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the new user is on the login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user clicks the register link",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user provides a \"Bane\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user provides a \"Krypton-was_2000\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user submits valid credentials",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "the user should get a browser alert saying \"Invalid username alert\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "should be redirected to the login page.",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:18.768Z",
+        "before": [
+          {
+            "result": {
+              "duration": 10507600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "User Registration",
+        "description": "",
+        "id": "planetarium-user-registration-positive-and-negative-paths;user-registration;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the new user is on the login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1001800,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user clicks the register link",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user provides a \"wonder_woman_for_the_DC_theming\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user provides a \"Krypton-was_2000\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user submits valid credentials",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "the user should get a browser alert saying \"Invalid username alert\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "should be redirected to the login page.",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:18.782Z",
+        "before": [
+          {
+            "result": {
+              "duration": 13040700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "User Registration",
+        "description": "",
+        "id": "planetarium-user-registration-positive-and-negative-paths;user-registration;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the new user is on the login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user clicks the register link",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user provides a \"2face\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user provides a \"Krypton-was_2000\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user submits valid credentials",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "the user should get a browser alert saying \"Invalid username alert\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "should be redirected to the login page.",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:18.799Z",
+        "before": [
+          {
+            "result": {
+              "duration": 11725500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "User Registration",
+        "description": "",
+        "id": "planetarium-user-registration-positive-and-negative-paths;user-registration;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the new user is on the login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user clicks the register link",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user provides a \"joker!!!!!!?)\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user provides a \"Krypton-was_2000\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user submits valid credentials",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "the user should get a browser alert saying \"Invalid username alert\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "should be redirected to the login page.",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:18.814Z",
+        "before": [
+          {
+            "result": {
+              "duration": 15145900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "User Registration",
+        "description": "",
+        "id": "planetarium-user-registration-positive-and-negative-paths;user-registration;;8",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the new user is on the login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user clicks the register link",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user provides a \"Super_man-2001\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user provides a \"b0Ts\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user submits valid credentials",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "the user should get a browser alert saying \"Invalid password alert\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "should be redirected to the login page.",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:18.834Z",
+        "before": [
+          {
+            "result": {
+              "duration": 11694800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "User Registration",
+        "description": "",
+        "id": "planetarium-user-registration-positive-and-negative-paths;user-registration;;9",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the new user is on the login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user clicks the register link",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user provides a \"Super_man-2001\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user provides a \"AlfredIsTheBestButlerToExist111\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user submits valid credentials",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "the user should get a browser alert saying \"Invalid password alert\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "should be redirected to the login page.",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:18.848Z",
+        "before": [
+          {
+            "result": {
+              "duration": 11649800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 22,
+        "name": "User Registration",
+        "description": "",
+        "id": "planetarium-user-registration-positive-and-negative-paths;user-registration;;10",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the new user is on the login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user clicks the register link",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user provides a \"Super_man-2001\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user provides a \"3atman\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user submits valid credentials",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "the user should get a browser alert saying \"Invalid password alert\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "should be redirected to the login page.",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:18.863Z",
+        "before": [
+          {
+            "result": {
+              "duration": 10284700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "User Registration",
+        "description": "",
+        "id": "planetarium-user-registration-positive-and-negative-paths;user-registration;;11",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the new user is on the login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user clicks the register link",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user provides a \"Super_man-2001\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user provides a \"A1fredIsTheBestButlerToExist!!\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user submits valid credentials",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "the user should get a browser alert saying \"Invalid password alert\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "should be redirected to the login page.",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:18.877Z",
+        "before": [
+          {
+            "result": {
+              "duration": 11082400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 24,
+        "name": "User Registration",
+        "description": "",
+        "id": "planetarium-user-registration-positive-and-negative-paths;user-registration;;12",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the new user is on the login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user clicks the register link",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user provides a \"Super_man-2001\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user provides a \"batman1\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user submits valid credentials",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "the user should get a browser alert saying \"Invalid password alert\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "should be redirected to the login page.",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:18.890Z",
+        "before": [
+          {
+            "result": {
+              "duration": 10934300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 25,
+        "name": "User Registration",
+        "description": "",
+        "id": "planetarium-user-registration-positive-and-negative-paths;user-registration;;13",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the new user is on the login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user clicks the register link",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user provides a \"Super_man-2001\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user provides a \"BATMAN1\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user submits valid credentials",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "the user should get a browser alert saying \"Invalid password alert\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "should be redirected to the login page.",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-12-24T22:35:18.903Z",
+        "before": [
+          {
+            "result": {
+              "duration": 10459600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.revature.steps.hooks.Hooks.resetDatabase()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "User Registration",
+        "description": "",
+        "id": "planetarium-user-registration-positive-and-negative-paths;user-registration;;14",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "the new user is on the login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the user clicks the register link",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the user provides a \"Super_man-2001\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the user provides a \"Robin\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "the user submits valid credentials",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "the user should get a browser alert saying \"Invalid password alert\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "should be redirected to the login page.",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Planetarium User Registration Positive and negative paths",
+    "description": "",
+    "id": "planetarium-user-registration-positive-and-negative-paths",
+    "keyword": "Feature",
+    "uri": "classpath:features/registration.feature",
+    "tags": []
+  }
+]
