@@ -1,0 +1,17 @@
+Acceptance Test Summary
+
+US1: As a new user I want to open an account with the Planetarium so I can save my celestial findings
+	Grade: 3
+	Reasoning: There are typos in the alerts when creating a user, but it doesn’t affect its usage and the browser doesn’t show an alert when a duplicate username is entered.
+US2: As a user I want to securely access my account so I can interact with the Planetarium in a secure environment
+	Grade: 2
+	Reasoning: There are instances where you can access the home page without login in.
+US3: As a user I want to see my planets and moons added to the Planetarium so I can track my findings
+	Grade: 5
+	Reasoning: Celestial findings are displayed on the home page when added.
+US4: As a user I want to add new planets and moons to the Planetarium so I can update my findings
+	Grade: 4
+	Reasoning: In some instances when adding celestial findings the browser did not give an alert when for invalid file types.
+US5: As a user I want to remove planets and moons from the Planetarium so I can correct my findings.
+Grade: 5
+Reasoning: Application functions as expected
