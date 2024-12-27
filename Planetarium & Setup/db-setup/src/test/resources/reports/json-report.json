@@ -3,11 +3,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2024-12-27T06:38:16.344Z",
+        "start_timestamp": "2024-12-27T09:19:20.050Z",
         "before": [
           {
             "result": {
-              "duration": 131853800,
+              "duration": 137623600,
               "status": "passed"
             },
             "match": {
@@ -24,7 +24,7 @@
         "steps": [
           {
             "result": {
-              "duration": 275849400,
+              "duration": 388889200,
               "status": "passed"
             },
             "line": 4,
@@ -36,7 +36,7 @@
           },
           {
             "result": {
-              "duration": 167692800,
+              "duration": 394458500,
               "status": "passed"
             },
             "line": 5,
@@ -48,7 +48,7 @@
           },
           {
             "result": {
-              "duration": 115313400,
+              "duration": 115547200,
               "status": "passed"
             },
             "line": 6,
@@ -66,7 +66,7 @@
           },
           {
             "result": {
-              "duration": 40017000,
+              "duration": 33286900,
               "status": "passed"
             },
             "line": 7,
@@ -84,7 +84,7 @@
           },
           {
             "result": {
-              "duration": 13385000,
+              "duration": 17032200,
               "status": "passed"
             },
             "line": 8,
@@ -102,7 +102,7 @@
           },
           {
             "result": {
-              "duration": 44440500,
+              "duration": 46237800,
               "status": "passed"
             },
             "line": 9,
@@ -115,7 +115,7 @@
           {
             "result": {
               "error_message": "java.lang.AssertionError: expected:\u003c1\u003e but was:\u003c4\u003e\r\n\tat org.junit.Assert.fail(Assert.java:89)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:835)\r\n\tat org.junit.Assert.assertEquals(Assert.java:647)\r\n\tat org.junit.Assert.assertEquals(Assert.java:633)\r\n\tat com.revature.steps.MoonCreationSteps.the_table_should_expect_the_page_to_reflect_the_changes(MoonCreationSteps.java:55)\r\n\tat ✽.the table should expect the page to reflect the changes(classpath:features/Moon_creation.feature:10)\r\n",
-              "duration": 15778400,
+              "duration": 14374600,
               "status": "failed"
             },
             "line": 10,
@@ -128,11 +128,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:17.208Z",
+        "start_timestamp": "2024-12-27T09:19:21.257Z",
         "before": [
           {
             "result": {
-              "duration": 11035400,
+              "duration": 12820000,
               "status": "passed"
             },
             "match": {
@@ -149,7 +149,7 @@
         "steps": [
           {
             "result": {
-              "duration": 222580000,
+              "duration": 236418800,
               "status": "passed"
             },
             "line": 4,
@@ -161,7 +161,7 @@
           },
           {
             "result": {
-              "duration": 195210300,
+              "duration": 173592100,
               "status": "passed"
             },
             "line": 5,
@@ -173,15 +173,15 @@
           },
           {
             "result": {
-              "duration": 87429200,
+              "duration": 90234600,
               "status": "passed"
             },
             "line": 6,
-            "name": "the user inputs Moon name \"aA1 _-\"",
+            "name": "the user inputs Moon name \"1aA _-\"",
             "match": {
               "arguments": [
                 {
-                  "val": "\"aA1 _-\"",
+                  "val": "\"1aA _-\"",
                   "offset": 26
                 }
               ],
@@ -191,7 +191,7 @@
           },
           {
             "result": {
-              "duration": 36240000,
+              "duration": 36519000,
               "status": "passed"
             },
             "line": 7,
@@ -209,7 +209,7 @@
           },
           {
             "result": {
-              "duration": 12094500,
+              "duration": 11290700,
               "status": "passed"
             },
             "line": 8,
@@ -227,7 +227,7 @@
           },
           {
             "result": {
-              "duration": 36067800,
+              "duration": 40611800,
               "status": "passed"
             },
             "line": 9,
@@ -240,7 +240,7 @@
           {
             "result": {
               "error_message": "java.lang.AssertionError: expected:\u003c1\u003e but was:\u003c4\u003e\r\n\tat org.junit.Assert.fail(Assert.java:89)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:835)\r\n\tat org.junit.Assert.assertEquals(Assert.java:647)\r\n\tat org.junit.Assert.assertEquals(Assert.java:633)\r\n\tat com.revature.steps.MoonCreationSteps.the_table_should_expect_the_page_to_reflect_the_changes(MoonCreationSteps.java:55)\r\n\tat ✽.the table should expect the page to reflect the changes(classpath:features/Moon_creation.feature:10)\r\n",
-              "duration": 12303300,
+              "duration": 12221000,
               "status": "failed"
             },
             "line": 10,
@@ -253,11 +253,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:17.830Z",
+        "start_timestamp": "2024-12-27T09:19:21.880Z",
         "before": [
           {
             "result": {
-              "duration": 3001100,
+              "duration": 2008500,
               "status": "passed"
             },
             "match": {
@@ -274,7 +274,7 @@
         "steps": [
           {
             "result": {
-              "duration": 217171500,
+              "duration": 227997000,
               "status": "passed"
             },
             "line": 19,
@@ -286,7 +286,7 @@
           },
           {
             "result": {
-              "duration": 142654900,
+              "duration": 147081900,
               "status": "passed"
             },
             "line": 20,
@@ -298,7 +298,7 @@
           },
           {
             "result": {
-              "duration": 99789900,
+              "duration": 94698000,
               "status": "passed"
             },
             "line": 21,
@@ -316,7 +316,7 @@
           },
           {
             "result": {
-              "duration": 40023400,
+              "duration": 36236000,
               "status": "passed"
             },
             "line": 22,
@@ -334,7 +334,7 @@
           },
           {
             "result": {
-              "duration": 11448600,
+              "duration": 11980500,
               "status": "passed"
             },
             "line": 23,
@@ -352,7 +352,7 @@
           },
           {
             "result": {
-              "duration": 31978000,
+              "duration": 34985300,
               "status": "passed"
             },
             "line": 24,
@@ -365,7 +365,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003c[I]nvalid moon name\u003e but was:\u003c[i]nvalid moon name\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.MoonCreationSteps.the_table_should_expect_message(MoonCreationSteps.java:78)\r\n\tat ✽.the table should expect message \"Invalid moon name\"(classpath:features/Moon_creation.feature:25)\r\n",
-              "duration": 539856000,
+              "duration": 532882200,
               "status": "failed"
             },
             "line": 25,
@@ -384,11 +384,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:18.928Z",
+        "start_timestamp": "2024-12-27T09:19:22.974Z",
         "before": [
           {
             "result": {
-              "duration": 7921900,
+              "duration": 10158000,
               "status": "passed"
             },
             "match": {
@@ -405,7 +405,7 @@
         "steps": [
           {
             "result": {
-              "duration": 206358600,
+              "duration": 221005900,
               "status": "passed"
             },
             "line": 19,
@@ -417,7 +417,7 @@
           },
           {
             "result": {
-              "duration": 163959900,
+              "duration": 170268400,
               "status": "passed"
             },
             "line": 20,
@@ -429,7 +429,7 @@
           },
           {
             "result": {
-              "duration": 87244700,
+              "duration": 98109600,
               "status": "passed"
             },
             "line": 21,
@@ -447,7 +447,7 @@
           },
           {
             "result": {
-              "duration": 31147000,
+              "duration": 38834700,
               "status": "passed"
             },
             "line": 22,
@@ -465,7 +465,7 @@
           },
           {
             "result": {
-              "duration": 13288800,
+              "duration": 12584000,
               "status": "passed"
             },
             "line": 23,
@@ -483,7 +483,7 @@
           },
           {
             "result": {
-              "duration": 32481700,
+              "duration": 39929100,
               "status": "passed"
             },
             "line": 24,
@@ -495,8 +495,8 @@
           },
           {
             "result": {
-              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for alert to be present (tried for 4 second(s) with 500 milliseconds interval)\nBuild info: version: \u00274.25.0\u0027, revision: \u00278a8aea2337\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.25\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\\Users\\jonro\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58953}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58953/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: e68f94db34734a11b0bec22edb82b2bf\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)\r\n\tat com.revature.steps.MoonCreationSteps.the_table_should_expect_message(MoonCreationSteps.java:73)\r\n\tat ✽.the table should expect message \"invalid file type\"(classpath:features/Moon_creation.feature:25)\r\n",
-              "duration": 4089922700,
+              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for alert to be present (tried for 4 second(s) with 500 milliseconds interval)\nBuild info: version: \u00274.25.0\u0027, revision: \u00278a8aea2337\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.25\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\\Users\\jonro\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63846}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63846/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 8647c397026b40dd5ae03c9ef4b97ada\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)\r\n\tat com.revature.steps.MoonCreationSteps.the_table_should_expect_message(MoonCreationSteps.java:73)\r\n\tat ✽.the table should expect message \"invalid file type\"(classpath:features/Moon_creation.feature:25)\r\n",
+              "duration": 4090108800,
               "status": "failed"
             },
             "line": 25,
@@ -515,11 +515,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:23.564Z",
+        "start_timestamp": "2024-12-27T09:19:27.667Z",
         "before": [
           {
             "result": {
-              "duration": 15906900,
+              "duration": 13142400,
               "status": "passed"
             },
             "match": {
@@ -536,7 +536,7 @@
         "steps": [
           {
             "result": {
-              "duration": 279301100,
+              "duration": 235966000,
               "status": "passed"
             },
             "line": 19,
@@ -548,7 +548,7 @@
           },
           {
             "result": {
-              "duration": 168863800,
+              "duration": 177414600,
               "status": "passed"
             },
             "line": 20,
@@ -560,7 +560,7 @@
           },
           {
             "result": {
-              "duration": 202712900,
+              "duration": 203226400,
               "status": "passed"
             },
             "line": 21,
@@ -578,7 +578,7 @@
           },
           {
             "result": {
-              "duration": 40753100,
+              "duration": 40960900,
               "status": "passed"
             },
             "line": 22,
@@ -596,7 +596,7 @@
           },
           {
             "result": {
-              "duration": 17255700,
+              "duration": 14222100,
               "status": "passed"
             },
             "line": 23,
@@ -614,7 +614,7 @@
           },
           {
             "result": {
-              "duration": 39846900,
+              "duration": 41707200,
               "status": "passed"
             },
             "line": 24,
@@ -626,7 +626,7 @@
           },
           {
             "result": {
-              "duration": 20984000,
+              "duration": 18258400,
               "status": "passed"
             },
             "line": 25,
@@ -645,11 +645,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:24.351Z",
+        "start_timestamp": "2024-12-27T09:19:28.425Z",
         "before": [
           {
             "result": {
-              "duration": 15509000,
+              "duration": 16397000,
               "status": "passed"
             },
             "match": {
@@ -666,7 +666,7 @@
         "steps": [
           {
             "result": {
-              "duration": 242802900,
+              "duration": 254420300,
               "status": "passed"
             },
             "line": 19,
@@ -678,7 +678,7 @@
           },
           {
             "result": {
-              "duration": 187652100,
+              "duration": 163416100,
               "status": "passed"
             },
             "line": 20,
@@ -690,7 +690,7 @@
           },
           {
             "result": {
-              "duration": 92726400,
+              "duration": 107295000,
               "status": "passed"
             },
             "line": 21,
@@ -708,7 +708,7 @@
           },
           {
             "result": {
-              "duration": 35416400,
+              "duration": 35693900,
               "status": "passed"
             },
             "line": 22,
@@ -726,7 +726,7 @@
           },
           {
             "result": {
-              "duration": 11496100,
+              "duration": 10525600,
               "status": "passed"
             },
             "line": 23,
@@ -744,7 +744,7 @@
           },
           {
             "result": {
-              "duration": 35430300,
+              "duration": 38818100,
               "status": "passed"
             },
             "line": 24,
@@ -756,7 +756,7 @@
           },
           {
             "result": {
-              "duration": 21200300,
+              "duration": 21060300,
               "status": "passed"
             },
             "line": 25,
@@ -775,11 +775,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:25.000Z",
+        "start_timestamp": "2024-12-27T09:19:29.079Z",
         "before": [
           {
             "result": {
-              "duration": 10155000,
+              "duration": 5866700,
               "status": "passed"
             },
             "match": {
@@ -796,7 +796,7 @@
         "steps": [
           {
             "result": {
-              "duration": 215594800,
+              "duration": 220866100,
               "status": "passed"
             },
             "line": 19,
@@ -808,7 +808,7 @@
           },
           {
             "result": {
-              "duration": 141781900,
+              "duration": 181817300,
               "status": "passed"
             },
             "line": 20,
@@ -820,7 +820,7 @@
           },
           {
             "result": {
-              "duration": 91922800,
+              "duration": 87034100,
               "status": "passed"
             },
             "line": 21,
@@ -838,7 +838,7 @@
           },
           {
             "result": {
-              "duration": 31892200,
+              "duration": 38442900,
               "status": "passed"
             },
             "line": 22,
@@ -856,7 +856,7 @@
           },
           {
             "result": {
-              "duration": 11296300,
+              "duration": 13201400,
               "status": "passed"
             },
             "line": 23,
@@ -874,7 +874,7 @@
           },
           {
             "result": {
-              "duration": 38783900,
+              "duration": 41768200,
               "status": "passed"
             },
             "line": 24,
@@ -887,7 +887,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003c[I]nvalid moon name\u003e but was:\u003c[i]nvalid moon name\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.MoonCreationSteps.the_table_should_expect_message(MoonCreationSteps.java:78)\r\n\tat ✽.the table should expect message \"Invalid moon name\"(classpath:features/Moon_creation.feature:25)\r\n",
-              "duration": 526750600,
+              "duration": 523765900,
               "status": "failed"
             },
             "line": 25,
@@ -906,11 +906,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:26.080Z",
+        "start_timestamp": "2024-12-27T09:19:30.194Z",
         "before": [
           {
             "result": {
-              "duration": 2380800,
+              "duration": 14127200,
               "status": "passed"
             },
             "match": {
@@ -927,7 +927,7 @@
         "steps": [
           {
             "result": {
-              "duration": 266750600,
+              "duration": 284369200,
               "status": "passed"
             },
             "line": 19,
@@ -939,7 +939,7 @@
           },
           {
             "result": {
-              "duration": 196411000,
+              "duration": 190460900,
               "status": "passed"
             },
             "line": 20,
@@ -951,7 +951,7 @@
           },
           {
             "result": {
-              "duration": 108259100,
+              "duration": 123391500,
               "status": "passed"
             },
             "line": 21,
@@ -969,7 +969,7 @@
           },
           {
             "result": {
-              "duration": 50113300,
+              "duration": 53721300,
               "status": "passed"
             },
             "line": 22,
@@ -987,7 +987,7 @@
           },
           {
             "result": {
-              "duration": 18434200,
+              "duration": 16896900,
               "status": "passed"
             },
             "line": 23,
@@ -1005,7 +1005,7 @@
           },
           {
             "result": {
-              "duration": 58400900,
+              "duration": 55445100,
               "status": "passed"
             },
             "line": 24,
@@ -1018,7 +1018,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid planet [ID]\u003e but was:\u003cInvalid planet [id]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.MoonCreationSteps.the_table_should_expect_message(MoonCreationSteps.java:78)\r\n\tat ✽.the table should expect message \"Invalid planet ID\"(classpath:features/Moon_creation.feature:25)\r\n",
-              "duration": 29906500,
+              "duration": 28200100,
               "status": "failed"
             },
             "line": 25,
@@ -1048,11 +1048,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2024-12-27T06:38:26.822Z",
+        "start_timestamp": "2024-12-27T09:19:30.980Z",
         "before": [
           {
             "result": {
-              "duration": 15913400,
+              "duration": 10880800,
               "status": "passed"
             },
             "match": {
@@ -1069,7 +1069,7 @@
         "steps": [
           {
             "result": {
-              "duration": 269172200,
+              "duration": 241242800,
               "status": "passed"
             },
             "line": 3,
@@ -1081,7 +1081,7 @@
           },
           {
             "result": {
-              "duration": 213626400,
+              "duration": 169993700,
               "status": "passed"
             },
             "line": 4,
@@ -1093,7 +1093,7 @@
           },
           {
             "result": {
-              "duration": 99039200,
+              "duration": 94657900,
               "status": "passed"
             },
             "line": 5,
@@ -1105,7 +1105,7 @@
           },
           {
             "result": {
-              "duration": 40031300,
+              "duration": 39669200,
               "status": "passed"
             },
             "line": 6,
@@ -1117,7 +1117,7 @@
           },
           {
             "result": {
-              "duration": 4004400,
+              "duration": 4001300,
               "status": "passed"
             },
             "line": 7,
@@ -1130,11 +1130,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:27.476Z",
+        "start_timestamp": "2024-12-27T09:19:31.547Z",
         "before": [
           {
             "result": {
-              "duration": 10605100,
+              "duration": 13940400,
               "status": "passed"
             },
             "match": {
@@ -1151,7 +1151,7 @@
         "steps": [
           {
             "result": {
-              "duration": 222224000,
+              "duration": 234439900,
               "status": "passed"
             },
             "line": 10,
@@ -1163,7 +1163,7 @@
           },
           {
             "result": {
-              "duration": 115743500,
+              "duration": 163031600,
               "status": "passed"
             },
             "line": 11,
@@ -1175,7 +1175,7 @@
           },
           {
             "result": {
-              "duration": 165029800,
+              "duration": 192828400,
               "status": "passed"
             },
             "line": 12,
@@ -1187,7 +1187,7 @@
           },
           {
             "result": {
-              "duration": 51695800,
+              "duration": 49390400,
               "status": "passed"
             },
             "line": 13,
@@ -1199,7 +1199,7 @@
           },
           {
             "result": {
-              "duration": 7312900,
+              "duration": 509977500,
               "status": "passed"
             },
             "line": 14,
@@ -1211,7 +1211,7 @@
           },
           {
             "result": {
-              "duration": 3063600,
+              "duration": 4584200,
               "status": "passed"
             },
             "line": 15,
@@ -1235,11 +1235,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2024-12-27T06:38:28.055Z",
+        "start_timestamp": "2024-12-27T09:19:32.718Z",
         "before": [
           {
             "result": {
-              "duration": 10959700,
+              "duration": 11124800,
               "status": "passed"
             },
             "match": {
@@ -1256,7 +1256,7 @@
         "steps": [
           {
             "result": {
-              "duration": 232425500,
+              "duration": 253209700,
               "status": "passed"
             },
             "line": 3,
@@ -1268,7 +1268,7 @@
           },
           {
             "result": {
-              "duration": 206483300,
+              "duration": 176110700,
               "status": "passed"
             },
             "line": 4,
@@ -1280,7 +1280,7 @@
           },
           {
             "result": {
-              "duration": 57265900,
+              "duration": 62222100,
               "status": "passed"
             },
             "line": 5,
@@ -1298,7 +1298,7 @@
           },
           {
             "result": {
-              "duration": 13014900,
+              "duration": 10861400,
               "status": "passed"
             },
             "line": 6,
@@ -1316,7 +1316,7 @@
           },
           {
             "result": {
-              "duration": 38504900,
+              "duration": 37510500,
               "status": "passed"
             },
             "line": 7,
@@ -1328,7 +1328,7 @@
           },
           {
             "result": {
-              "duration": 2995500,
+              "duration": 6762300,
               "status": "passed"
             },
             "line": 8,
@@ -1341,11 +1341,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:28.626Z",
+        "start_timestamp": "2024-12-27T09:19:33.283Z",
         "before": [
           {
             "result": {
-              "duration": 6941200,
+              "duration": 9602300,
               "status": "passed"
             },
             "match": {
@@ -1362,7 +1362,7 @@
         "steps": [
           {
             "result": {
-              "duration": 226343200,
+              "duration": 252461200,
               "status": "passed"
             },
             "line": 3,
@@ -1374,7 +1374,7 @@
           },
           {
             "result": {
-              "duration": 178981500,
+              "duration": 171221300,
               "status": "passed"
             },
             "line": 4,
@@ -1386,7 +1386,7 @@
           },
           {
             "result": {
-              "duration": 60401900,
+              "duration": 59360400,
               "status": "passed"
             },
             "line": 5,
@@ -1404,7 +1404,7 @@
           },
           {
             "result": {
-              "duration": 11558200,
+              "duration": 12486000,
               "status": "passed"
             },
             "line": 6,
@@ -1422,7 +1422,7 @@
           },
           {
             "result": {
-              "duration": 36457400,
+              "duration": 38651300,
               "status": "passed"
             },
             "line": 7,
@@ -1434,7 +1434,7 @@
           },
           {
             "result": {
-              "duration": 3039000,
+              "duration": 7125600,
               "status": "passed"
             },
             "line": 8,
@@ -1447,11 +1447,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:29.155Z",
+        "start_timestamp": "2024-12-27T09:19:33.839Z",
         "before": [
           {
             "result": {
-              "duration": 9963300,
+              "duration": 13556600,
               "status": "passed"
             },
             "match": {
@@ -1468,7 +1468,7 @@
         "steps": [
           {
             "result": {
-              "duration": 221812100,
+              "duration": 238268800,
               "status": "passed"
             },
             "line": 16,
@@ -1480,7 +1480,7 @@
           },
           {
             "result": {
-              "duration": 200754700,
+              "duration": 183317000,
               "status": "passed"
             },
             "line": 17,
@@ -1492,7 +1492,7 @@
           },
           {
             "result": {
-              "duration": 61718500,
+              "duration": 58897000,
               "status": "passed"
             },
             "line": 18,
@@ -1510,7 +1510,7 @@
           },
           {
             "result": {
-              "duration": 13890300,
+              "duration": 10668100,
               "status": "passed"
             },
             "line": 19,
@@ -1528,7 +1528,7 @@
           },
           {
             "result": {
-              "duration": 37684700,
+              "duration": 33049700,
               "status": "passed"
             },
             "line": 20,
@@ -1540,8 +1540,8 @@
           },
           {
             "result": {
-              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for alert to be present (tried for 4 second(s) with 500 milliseconds interval)\nBuild info: version: \u00274.25.0\u0027, revision: \u00278a8aea2337\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.25\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\\Users\\jonro\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58953}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58953/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: e68f94db34734a11b0bec22edb82b2bf\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)\r\n\tat com.revature.steps.PlanetCreationSteps.the_user_should_expect_and_alert(PlanetCreationSteps.java:58)\r\n\tat ✽.the user should expect and alert \"invalid file type\"(classpath:features/Planet_creation.feature:21)\r\n",
-              "duration": 4079021000,
+              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for alert to be present (tried for 4 second(s) with 500 milliseconds interval)\nBuild info: version: \u00274.25.0\u0027, revision: \u00278a8aea2337\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.25\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\\Users\\jonro\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63846}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63846/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 8647c397026b40dd5ae03c9ef4b97ada\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)\r\n\tat com.revature.steps.PlanetCreationSteps.the_user_should_expect_and_alert(PlanetCreationSteps.java:59)\r\n\tat ✽.the user should expect and alert \"invalid file type\"(classpath:features/Planet_creation.feature:21)\r\n",
+              "duration": 4064582900,
               "status": "failed"
             },
             "line": 21,
@@ -1560,11 +1560,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:33.781Z",
+        "start_timestamp": "2024-12-27T09:19:38.446Z",
         "before": [
           {
             "result": {
-              "duration": 15746100,
+              "duration": 16025500,
               "status": "passed"
             },
             "match": {
@@ -1581,7 +1581,7 @@
         "steps": [
           {
             "result": {
-              "duration": 261388000,
+              "duration": 270690600,
               "status": "passed"
             },
             "line": 16,
@@ -1593,7 +1593,7 @@
           },
           {
             "result": {
-              "duration": 180263100,
+              "duration": 174549500,
               "status": "passed"
             },
             "line": 17,
@@ -1605,7 +1605,7 @@
           },
           {
             "result": {
-              "duration": 165496000,
+              "duration": 182893100,
               "status": "passed"
             },
             "line": 18,
@@ -1623,7 +1623,7 @@
           },
           {
             "result": {
-              "duration": 19678500,
+              "duration": 15846800,
               "status": "passed"
             },
             "line": 19,
@@ -1641,7 +1641,7 @@
           },
           {
             "result": {
-              "duration": 40103600,
+              "duration": 45808700,
               "status": "passed"
             },
             "line": 20,
@@ -1653,7 +1653,7 @@
           },
           {
             "result": {
-              "duration": 9958900,
+              "duration": 8511200,
               "status": "passed"
             },
             "line": 21,
@@ -1672,11 +1672,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:34.476Z",
+        "start_timestamp": "2024-12-27T09:19:39.165Z",
         "before": [
           {
             "result": {
-              "duration": 12012600,
+              "duration": 14716300,
               "status": "passed"
             },
             "match": {
@@ -1693,7 +1693,7 @@
         "steps": [
           {
             "result": {
-              "duration": 263171500,
+              "duration": 260353300,
               "status": "passed"
             },
             "line": 16,
@@ -1705,7 +1705,7 @@
           },
           {
             "result": {
-              "duration": 206459100,
+              "duration": 185958600,
               "status": "passed"
             },
             "line": 17,
@@ -1717,7 +1717,7 @@
           },
           {
             "result": {
-              "duration": 69289300,
+              "duration": 73082700,
               "status": "passed"
             },
             "line": 18,
@@ -1735,7 +1735,7 @@
           },
           {
             "result": {
-              "duration": 12943800,
+              "duration": 18488600,
               "status": "passed"
             },
             "line": 19,
@@ -1753,7 +1753,7 @@
           },
           {
             "result": {
-              "duration": 39020600,
+              "duration": 53769900,
               "status": "passed"
             },
             "line": 20,
@@ -1765,7 +1765,7 @@
           },
           {
             "result": {
-              "duration": 7672900,
+              "duration": 13827800,
               "status": "passed"
             },
             "line": 21,
@@ -1784,11 +1784,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:35.094Z",
+        "start_timestamp": "2024-12-27T09:19:39.792Z",
         "before": [
           {
             "result": {
-              "duration": 15810600,
+              "duration": 10042800,
               "status": "passed"
             },
             "match": {
@@ -1805,7 +1805,7 @@
         "steps": [
           {
             "result": {
-              "duration": 231207400,
+              "duration": 268639800,
               "status": "passed"
             },
             "line": 16,
@@ -1817,7 +1817,7 @@
           },
           {
             "result": {
-              "duration": 188847700,
+              "duration": 164979700,
               "status": "passed"
             },
             "line": 17,
@@ -1829,15 +1829,15 @@
           },
           {
             "result": {
-              "duration": 53616800,
+              "duration": 61005500,
               "status": "passed"
             },
             "line": 18,
-            "name": "the user inputs planet name \"1aA _-\"",
+            "name": "the user inputs planet name \"Earth\"",
             "match": {
               "arguments": [
                 {
-                  "val": "\"1aA _-\"",
+                  "val": "\"Earth\"",
                   "offset": 28
                 }
               ],
@@ -1847,7 +1847,7 @@
           },
           {
             "result": {
-              "duration": 13338400,
+              "duration": 14523400,
               "status": "passed"
             },
             "line": 19,
@@ -1865,7 +1865,7 @@
           },
           {
             "result": {
-              "duration": 35856600,
+              "duration": 61547000,
               "status": "passed"
             },
             "line": 20,
@@ -1877,7 +1877,7 @@
           },
           {
             "result": {
-              "duration": 520960000,
+              "duration": 514282200,
               "status": "passed"
             },
             "line": 21,
@@ -1907,11 +1907,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2024-12-27T06:38:36.159Z",
+        "start_timestamp": "2024-12-27T09:19:40.894Z",
         "before": [
           {
             "result": {
-              "duration": 10827400,
+              "duration": 13715700,
               "status": "passed"
             },
             "match": {
@@ -1928,7 +1928,7 @@
         "steps": [
           {
             "result": {
-              "duration": 232582200,
+              "duration": 253509900,
               "status": "passed"
             },
             "line": 3,
@@ -1940,7 +1940,7 @@
           },
           {
             "result": {
-              "duration": 196612300,
+              "duration": 208956900,
               "status": "passed"
             },
             "line": 4,
@@ -1952,7 +1952,7 @@
           },
           {
             "result": {
-              "duration": 53664100,
+              "duration": 80971700,
               "status": "passed"
             },
             "line": 5,
@@ -1964,7 +1964,7 @@
           },
           {
             "result": {
-              "duration": 32227100,
+              "duration": 39159700,
               "status": "passed"
             },
             "line": 6,
@@ -1976,7 +1976,7 @@
           },
           {
             "result": {
-              "duration": 6939800,
+              "duration": 5010400,
               "status": "passed"
             },
             "line": 7,
@@ -1989,11 +1989,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:36.710Z",
+        "start_timestamp": "2024-12-27T09:19:41.503Z",
         "before": [
           {
             "result": {
-              "duration": 22344600,
+              "duration": 14145900,
               "status": "passed"
             },
             "match": {
@@ -2010,7 +2010,7 @@
         "steps": [
           {
             "result": {
-              "duration": 244878800,
+              "duration": 249587800,
               "status": "passed"
             },
             "line": 10,
@@ -2022,7 +2022,7 @@
           },
           {
             "result": {
-              "duration": 107584400,
+              "duration": 192431200,
               "status": "passed"
             },
             "line": 11,
@@ -2034,7 +2034,7 @@
           },
           {
             "result": {
-              "duration": 80447600,
+              "duration": 63246800,
               "status": "passed"
             },
             "line": 12,
@@ -2046,7 +2046,7 @@
           },
           {
             "result": {
-              "duration": 36194900,
+              "duration": 33819100,
               "status": "passed"
             },
             "line": 13,
@@ -2058,7 +2058,7 @@
           },
           {
             "result": {
-              "duration": 9645600,
+              "duration": 515628300,
               "status": "passed"
             },
             "line": 14,
@@ -2070,7 +2070,7 @@
           },
           {
             "result": {
-              "duration": 3631300,
+              "duration": 4654100,
               "status": "passed"
             },
             "line": 15,
@@ -2094,11 +2094,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2024-12-27T06:38:37.221Z",
+        "start_timestamp": "2024-12-27T09:19:42.581Z",
         "before": [
           {
             "result": {
-              "duration": 11959400,
+              "duration": 14462300,
               "status": "passed"
             },
             "match": {
@@ -2115,7 +2115,7 @@
         "steps": [
           {
             "result": {
-              "duration": 26688500,
+              "duration": 32992600,
               "status": "passed"
             },
             "line": 4,
@@ -2127,7 +2127,7 @@
           },
           {
             "result": {
-              "duration": 33296300,
+              "duration": 31662700,
               "status": "passed"
             },
             "line": 5,
@@ -2140,7 +2140,7 @@
           {
             "result": {
               "error_message": "java.lang.AssertionError: Values should be different. Actual: Home\r\n\tat org.junit.Assert.fail(Assert.java:89)\r\n\tat org.junit.Assert.failEquals(Assert.java:187)\r\n\tat org.junit.Assert.assertNotEquals(Assert.java:163)\r\n\tat org.junit.Assert.assertNotEquals(Assert.java:177)\r\n\tat com.revature.steps.HomePageSteps.the_user_should_be_denied_access(HomePageSteps.java:32)\r\n\tat ✽.the user should be denied access(classpath:features/home_page.feature:6)\r\n",
-              "duration": 10642000,
+              "duration": 7747800,
               "status": "failed"
             },
             "line": 6,
@@ -2153,11 +2153,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:37.311Z",
+        "start_timestamp": "2024-12-27T09:19:42.674Z",
         "before": [
           {
             "result": {
-              "duration": 15596900,
+              "duration": 15228100,
               "status": "passed"
             },
             "match": {
@@ -2174,7 +2174,7 @@
         "steps": [
           {
             "result": {
-              "duration": 31659100,
+              "duration": 36664800,
               "status": "passed"
             },
             "line": 9,
@@ -2186,7 +2186,7 @@
           },
           {
             "result": {
-              "duration": 199725500,
+              "duration": 225236100,
               "status": "passed"
             },
             "line": 10,
@@ -2244,11 +2244,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2024-12-27T06:38:37.567Z",
+        "start_timestamp": "2024-12-27T09:19:42.955Z",
         "before": [
           {
             "result": {
-              "duration": 18305100,
+              "duration": 20799000,
               "status": "passed"
             },
             "match": {
@@ -2265,7 +2265,7 @@
         "steps": [
           {
             "result": {
-              "duration": 32642100,
+              "duration": 30734400,
               "status": "passed"
             },
             "line": 3,
@@ -2277,7 +2277,7 @@
           },
           {
             "result": {
-              "duration": 68956500,
+              "duration": 92352900,
               "status": "passed"
             },
             "line": 4,
@@ -2295,7 +2295,7 @@
           },
           {
             "result": {
-              "duration": 109628600,
+              "duration": 96046600,
               "status": "passed"
             },
             "line": 5,
@@ -2313,7 +2313,7 @@
           },
           {
             "result": {
-              "duration": 13095100,
+              "duration": 11059700,
               "status": "passed"
             },
             "line": 6,
@@ -2325,7 +2325,7 @@
           },
           {
             "result": {
-              "duration": 32535300,
+              "duration": 530828100,
               "status": "passed"
             },
             "line": 7,
@@ -2344,11 +2344,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:37.851Z",
+        "start_timestamp": "2024-12-27T09:19:43.759Z",
         "before": [
           {
             "result": {
-              "duration": 15689800,
+              "duration": 12631100,
               "status": "passed"
             },
             "match": {
@@ -2365,7 +2365,7 @@
         "steps": [
           {
             "result": {
-              "duration": 29886400,
+              "duration": 29970400,
               "status": "passed"
             },
             "line": 17,
@@ -2377,7 +2377,7 @@
           },
           {
             "result": {
-              "duration": 84948700,
+              "duration": 77532200,
               "status": "passed"
             },
             "line": 18,
@@ -2395,7 +2395,7 @@
           },
           {
             "result": {
-              "duration": 58128800,
+              "duration": 64291100,
               "status": "passed"
             },
             "line": 19,
@@ -2413,7 +2413,7 @@
           },
           {
             "result": {
-              "duration": 10946200,
+              "duration": 7357900,
               "status": "passed"
             },
             "line": 20,
@@ -2426,7 +2426,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid [C]redentials\u003e but was:\u003cInvalid [c]redentials\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.LoginSteps.the_user_should_expect_alert(LoginSteps.java:56)\r\n\tat ✽.the user should expect \"Invalid Credentials\" alert.(classpath:features/login.feature:21)\r\n",
-              "duration": 514412800,
+              "duration": 516750500,
               "status": "failed"
             },
             "line": 21,
@@ -2462,11 +2462,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:38.570Z",
+        "start_timestamp": "2024-12-27T09:19:44.471Z",
         "before": [
           {
             "result": {
-              "duration": 11078400,
+              "duration": 13366800,
               "status": "passed"
             },
             "match": {
@@ -2483,7 +2483,7 @@
         "steps": [
           {
             "result": {
-              "duration": 20625000,
+              "duration": 19100500,
               "status": "passed"
             },
             "line": 17,
@@ -2495,7 +2495,7 @@
           },
           {
             "result": {
-              "duration": 66915100,
+              "duration": 72151100,
               "status": "passed"
             },
             "line": 18,
@@ -2513,7 +2513,7 @@
           },
           {
             "result": {
-              "duration": 109040000,
+              "duration": 120365600,
               "status": "passed"
             },
             "line": 19,
@@ -2531,7 +2531,7 @@
           },
           {
             "result": {
-              "duration": 7782300,
+              "duration": 12039600,
               "status": "passed"
             },
             "line": 20,
@@ -2544,7 +2544,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid [C]redentials\u003e but was:\u003cInvalid [c]redentials\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.LoginSteps.the_user_should_expect_alert(LoginSteps.java:56)\r\n\tat ✽.the user should expect \"Invalid Credentials\" alert.(classpath:features/login.feature:21)\r\n",
-              "duration": 523560200,
+              "duration": 525739100,
               "status": "failed"
             },
             "line": 21,
@@ -2580,11 +2580,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:39.313Z",
+        "start_timestamp": "2024-12-27T09:19:45.238Z",
         "before": [
           {
             "result": {
-              "duration": 10436100,
+              "duration": 13574800,
               "status": "passed"
             },
             "match": {
@@ -2601,7 +2601,7 @@
         "steps": [
           {
             "result": {
-              "duration": 13552000,
+              "duration": 15525600,
               "status": "passed"
             },
             "line": 17,
@@ -2613,7 +2613,7 @@
           },
           {
             "result": {
-              "duration": 71330400,
+              "duration": 73428800,
               "status": "passed"
             },
             "line": 18,
@@ -2631,7 +2631,7 @@
           },
           {
             "result": {
-              "duration": 59603200,
+              "duration": 67190200,
               "status": "passed"
             },
             "line": 19,
@@ -2649,7 +2649,7 @@
           },
           {
             "result": {
-              "duration": 11679800,
+              "duration": 12182300,
               "status": "passed"
             },
             "line": 20,
@@ -2662,7 +2662,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid [C]redentials\u003e but was:\u003cInvalid [c]redentials\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.LoginSteps.the_user_should_expect_alert(LoginSteps.java:56)\r\n\tat ✽.the user should expect \"Invalid Credentials\" alert.(classpath:features/login.feature:21)\r\n",
-              "duration": 516618800,
+              "duration": 510541500,
               "status": "failed"
             },
             "line": 21,
@@ -2698,11 +2698,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:40.005Z",
+        "start_timestamp": "2024-12-27T09:19:45.936Z",
         "before": [
           {
             "result": {
-              "duration": 11838400,
+              "duration": 11572700,
               "status": "passed"
             },
             "match": {
@@ -2719,7 +2719,7 @@
         "steps": [
           {
             "result": {
-              "duration": 210568700,
+              "duration": 227985500,
               "status": "passed"
             },
             "line": 33,
@@ -2731,7 +2731,7 @@
           },
           {
             "result": {
-              "duration": 22293500,
+              "duration": 22518900,
               "status": "passed"
             },
             "line": 34,
@@ -2743,7 +2743,7 @@
           },
           {
             "result": {
-              "duration": 66430600,
+              "duration": 69886800,
               "status": "passed"
             },
             "line": 35,
@@ -2755,7 +2755,7 @@
           },
           {
             "result": {
-              "duration": 17168200,
+              "duration": 20646200,
               "status": "passed"
             },
             "line": 36,
@@ -2767,6 +2767,7 @@
           },
           {
             "result": {
+              "duration": 2084500,
               "status": "passed"
             },
             "line": 37,
@@ -2790,11 +2791,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2024-12-27T06:38:40.342Z",
+        "start_timestamp": "2024-12-27T09:19:46.292Z",
         "before": [
           {
             "result": {
-              "duration": 6753100,
+              "duration": 9941900,
               "status": "passed"
             },
             "match": {
@@ -2811,7 +2812,7 @@
         "steps": [
           {
             "result": {
-              "duration": 22937600,
+              "duration": 22017100,
               "status": "passed"
             },
             "line": 4,
@@ -2823,7 +2824,7 @@
           },
           {
             "result": {
-              "duration": 81473300,
+              "duration": 85787800,
               "status": "passed"
             },
             "line": 5,
@@ -2835,7 +2836,7 @@
           },
           {
             "result": {
-              "duration": 99337800,
+              "duration": 114360300,
               "status": "passed"
             },
             "line": 6,
@@ -2853,7 +2854,7 @@
           },
           {
             "result": {
-              "duration": 116637900,
+              "duration": 125299300,
               "status": "passed"
             },
             "line": 7,
@@ -2871,7 +2872,7 @@
           },
           {
             "result": {
-              "duration": 53757900,
+              "duration": 53537900,
               "status": "passed"
             },
             "line": 8,
@@ -2883,7 +2884,7 @@
           },
           {
             "result": {
-              "duration": 524949700,
+              "duration": 524853400,
               "status": "passed"
             },
             "line": 9,
@@ -2901,7 +2902,7 @@
           },
           {
             "result": {
-              "duration": 19345600,
+              "duration": 20691300,
               "status": "passed"
             },
             "line": 10,
@@ -2914,11 +2915,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:41.277Z",
+        "start_timestamp": "2024-12-27T09:19:47.258Z",
         "before": [
           {
             "result": {
-              "duration": 14529300,
+              "duration": 23546100,
               "status": "passed"
             },
             "match": {
@@ -2935,7 +2936,7 @@
         "steps": [
           {
             "result": {
-              "duration": 14025200,
+              "duration": 13793400,
               "status": "passed"
             },
             "line": 4,
@@ -2947,7 +2948,7 @@
           },
           {
             "result": {
-              "duration": 78698100,
+              "duration": 80963600,
               "status": "passed"
             },
             "line": 5,
@@ -2959,7 +2960,7 @@
           },
           {
             "result": {
-              "duration": 77144700,
+              "duration": 76342500,
               "status": "passed"
             },
             "line": 6,
@@ -2977,7 +2978,7 @@
           },
           {
             "result": {
-              "duration": 108101700,
+              "duration": 117109500,
               "status": "passed"
             },
             "line": 7,
@@ -2995,7 +2996,7 @@
           },
           {
             "result": {
-              "duration": 39656400,
+              "duration": 44336300,
               "status": "passed"
             },
             "line": 8,
@@ -3007,8 +3008,8 @@
           },
           {
             "result": {
-              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for alert to be present (tried for 4 second(s) with 500 milliseconds interval)\nBuild info: version: \u00274.25.0\u0027, revision: \u00278a8aea2337\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.25\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\\Users\\jonro\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58953}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58953/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: e68f94db34734a11b0bec22edb82b2bf\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)\r\n\tat com.revature.steps.RegistrationSteps.the_user_should_get_a_browser_alert(RegistrationSteps.java:52)\r\n\tat ✽.the user should get a browser alert \"Invalid username provided\"(classpath:features/registration.feature:9)\r\n",
-              "duration": 4077226600,
+              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for alert to be present (tried for 4 second(s) with 500 milliseconds interval)\nBuild info: version: \u00274.25.0\u0027, revision: \u00278a8aea2337\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.25\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\\Users\\jonro\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63846}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63846/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 8647c397026b40dd5ae03c9ef4b97ada\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)\r\n\tat com.revature.steps.RegistrationSteps.the_user_should_get_a_browser_alert(RegistrationSteps.java:52)\r\n\tat ✽.the user should get a browser alert \"Invalid username provided\"(classpath:features/registration.feature:9)\r\n",
+              "duration": 4062230400,
               "status": "failed"
             },
             "line": 9,
@@ -3038,11 +3039,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:45.688Z",
+        "start_timestamp": "2024-12-27T09:19:51.681Z",
         "before": [
           {
             "result": {
-              "duration": 17200600,
+              "duration": 9701300,
               "status": "passed"
             },
             "match": {
@@ -3059,7 +3060,7 @@
         "steps": [
           {
             "result": {
-              "duration": 31236700,
+              "duration": 30757100,
               "status": "passed"
             },
             "line": 4,
@@ -3071,7 +3072,7 @@
           },
           {
             "result": {
-              "duration": 89784400,
+              "duration": 86593700,
               "status": "passed"
             },
             "line": 5,
@@ -3083,7 +3084,7 @@
           },
           {
             "result": {
-              "duration": 70571200,
+              "duration": 66514000,
               "status": "passed"
             },
             "line": 6,
@@ -3101,7 +3102,7 @@
           },
           {
             "result": {
-              "duration": 110801100,
+              "duration": 122034400,
               "status": "passed"
             },
             "line": 7,
@@ -3119,7 +3120,7 @@
           },
           {
             "result": {
-              "duration": 47650900,
+              "duration": 45337500,
               "status": "passed"
             },
             "line": 8,
@@ -3132,7 +3133,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid username[ provided]\u003e but was:\u003cInvalid username[]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.RegistrationSteps.the_user_should_get_a_browser_alert(RegistrationSteps.java:56)\r\n\tat ✽.the user should get a browser alert \"Invalid username provided\"(classpath:features/registration.feature:9)\r\n",
-              "duration": 8560300,
+              "duration": 7540400,
               "status": "failed"
             },
             "line": 9,
@@ -3162,11 +3163,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:46.069Z",
+        "start_timestamp": "2024-12-27T09:19:52.055Z",
         "before": [
           {
             "result": {
-              "duration": 13497500,
+              "duration": 11169100,
               "status": "passed"
             },
             "match": {
@@ -3183,7 +3184,7 @@
         "steps": [
           {
             "result": {
-              "duration": 28866400,
+              "duration": 30740200,
               "status": "passed"
             },
             "line": 4,
@@ -3195,7 +3196,7 @@
           },
           {
             "result": {
-              "duration": 82824600,
+              "duration": 76976100,
               "status": "passed"
             },
             "line": 5,
@@ -3207,7 +3208,7 @@
           },
           {
             "result": {
-              "duration": 225576800,
+              "duration": 200012500,
               "status": "passed"
             },
             "line": 6,
@@ -3225,7 +3226,7 @@
           },
           {
             "result": {
-              "duration": 104814000,
+              "duration": 113667900,
               "status": "passed"
             },
             "line": 7,
@@ -3243,7 +3244,7 @@
           },
           {
             "result": {
-              "duration": 58774700,
+              "duration": 44195100,
               "status": "passed"
             },
             "line": 8,
@@ -3256,7 +3257,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid username[ provided]\u003e but was:\u003cInvalid username[]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.RegistrationSteps.the_user_should_get_a_browser_alert(RegistrationSteps.java:56)\r\n\tat ✽.the user should get a browser alert \"Invalid username provided\"(classpath:features/registration.feature:9)\r\n",
-              "duration": 8109300,
+              "duration": 8788500,
               "status": "failed"
             },
             "line": 9,
@@ -3286,11 +3287,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:46.597Z",
+        "start_timestamp": "2024-12-27T09:19:52.548Z",
         "before": [
           {
             "result": {
-              "duration": 12243300,
+              "duration": 10724500,
               "status": "passed"
             },
             "match": {
@@ -3307,7 +3308,7 @@
         "steps": [
           {
             "result": {
-              "duration": 35655800,
+              "duration": 35913200,
               "status": "passed"
             },
             "line": 4,
@@ -3319,7 +3320,7 @@
           },
           {
             "result": {
-              "duration": 85389800,
+              "duration": 93024700,
               "status": "passed"
             },
             "line": 5,
@@ -3331,7 +3332,7 @@
           },
           {
             "result": {
-              "duration": 70231900,
+              "duration": 86022000,
               "status": "passed"
             },
             "line": 6,
@@ -3349,7 +3350,7 @@
           },
           {
             "result": {
-              "duration": 112470100,
+              "duration": 115873400,
               "status": "passed"
             },
             "line": 7,
@@ -3367,7 +3368,7 @@
           },
           {
             "result": {
-              "duration": 41034500,
+              "duration": 52271400,
               "status": "passed"
             },
             "line": 8,
@@ -3380,7 +3381,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid username[ provided]\u003e but was:\u003cInvalid username[]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.RegistrationSteps.the_user_should_get_a_browser_alert(RegistrationSteps.java:56)\r\n\tat ✽.the user should get a browser alert \"Invalid username provided\"(classpath:features/registration.feature:9)\r\n",
-              "duration": 3432800,
+              "duration": 7762400,
               "status": "failed"
             },
             "line": 9,
@@ -3410,11 +3411,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:46.963Z",
+        "start_timestamp": "2024-12-27T09:19:52.956Z",
         "before": [
           {
             "result": {
-              "duration": 19748600,
+              "duration": 13604900,
               "status": "passed"
             },
             "match": {
@@ -3431,7 +3432,7 @@
         "steps": [
           {
             "result": {
-              "duration": 44532300,
+              "duration": 36849700,
               "status": "passed"
             },
             "line": 4,
@@ -3443,7 +3444,7 @@
           },
           {
             "result": {
-              "duration": 71716000,
+              "duration": 81149100,
               "status": "passed"
             },
             "line": 5,
@@ -3455,7 +3456,7 @@
           },
           {
             "result": {
-              "duration": 98215000,
+              "duration": 116015200,
               "status": "passed"
             },
             "line": 6,
@@ -3473,7 +3474,7 @@
           },
           {
             "result": {
-              "duration": 106394600,
+              "duration": 121177800,
               "status": "passed"
             },
             "line": 7,
@@ -3491,7 +3492,7 @@
           },
           {
             "result": {
-              "duration": 43155400,
+              "duration": 44172400,
               "status": "passed"
             },
             "line": 8,
@@ -3504,7 +3505,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid username[ provided]\u003e but was:\u003cInvalid username[]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.RegistrationSteps.the_user_should_get_a_browser_alert(RegistrationSteps.java:56)\r\n\tat ✽.the user should get a browser alert \"Invalid username provided\"(classpath:features/registration.feature:9)\r\n",
-              "duration": 9269700,
+              "duration": 6012200,
               "status": "failed"
             },
             "line": 9,
@@ -3534,11 +3535,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:47.363Z",
+        "start_timestamp": "2024-12-27T09:19:53.379Z",
         "before": [
           {
             "result": {
-              "duration": 12560200,
+              "duration": 14796300,
               "status": "passed"
             },
             "match": {
@@ -3555,7 +3556,7 @@
         "steps": [
           {
             "result": {
-              "duration": 30514600,
+              "duration": 36116000,
               "status": "passed"
             },
             "line": 4,
@@ -3567,7 +3568,7 @@
           },
           {
             "result": {
-              "duration": 75798700,
+              "duration": 77372200,
               "status": "passed"
             },
             "line": 5,
@@ -3579,7 +3580,7 @@
           },
           {
             "result": {
-              "duration": 101228600,
+              "duration": 101804500,
               "status": "passed"
             },
             "line": 6,
@@ -3597,7 +3598,7 @@
           },
           {
             "result": {
-              "duration": 64978900,
+              "duration": 77047700,
               "status": "passed"
             },
             "line": 7,
@@ -3615,7 +3616,7 @@
           },
           {
             "result": {
-              "duration": 48027600,
+              "duration": 44424600,
               "status": "passed"
             },
             "line": 8,
@@ -3628,7 +3629,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid password[ provided]\u003e but was:\u003cInvalid password[]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.RegistrationSteps.the_user_should_get_a_browser_alert(RegistrationSteps.java:56)\r\n\tat ✽.the user should get a browser alert \"Invalid password provided\"(classpath:features/registration.feature:9)\r\n",
-              "duration": 7340600,
+              "duration": 8328200,
               "status": "failed"
             },
             "line": 9,
@@ -3658,11 +3659,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:47.707Z",
+        "start_timestamp": "2024-12-27T09:19:53.744Z",
         "before": [
           {
             "result": {
-              "duration": 12749300,
+              "duration": 15745900,
               "status": "passed"
             },
             "match": {
@@ -3679,7 +3680,7 @@
         "steps": [
           {
             "result": {
-              "duration": 29448200,
+              "duration": 31900400,
               "status": "passed"
             },
             "line": 4,
@@ -3691,7 +3692,7 @@
           },
           {
             "result": {
-              "duration": 74187900,
+              "duration": 77455600,
               "status": "passed"
             },
             "line": 5,
@@ -3703,7 +3704,7 @@
           },
           {
             "result": {
-              "duration": 107127200,
+              "duration": 122972800,
               "status": "passed"
             },
             "line": 6,
@@ -3721,7 +3722,7 @@
           },
           {
             "result": {
-              "duration": 184546900,
+              "duration": 177749200,
               "status": "passed"
             },
             "line": 7,
@@ -3739,7 +3740,7 @@
           },
           {
             "result": {
-              "duration": 43854900,
+              "duration": 59122300,
               "status": "passed"
             },
             "line": 8,
@@ -3752,7 +3753,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid password[ provided]\u003e but was:\u003cInvalid password[]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.RegistrationSteps.the_user_should_get_a_browser_alert(RegistrationSteps.java:56)\r\n\tat ✽.the user should get a browser alert \"Invalid password provided\"(classpath:features/registration.feature:9)\r\n",
-              "duration": 8578500,
+              "duration": 7522000,
               "status": "failed"
             },
             "line": 9,
@@ -3782,11 +3783,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:48.176Z",
+        "start_timestamp": "2024-12-27T09:19:54.243Z",
         "before": [
           {
             "result": {
-              "duration": 15653200,
+              "duration": 7809800,
               "status": "passed"
             },
             "match": {
@@ -3803,7 +3804,7 @@
         "steps": [
           {
             "result": {
-              "duration": 28686300,
+              "duration": 34186500,
               "status": "passed"
             },
             "line": 4,
@@ -3815,7 +3816,7 @@
           },
           {
             "result": {
-              "duration": 78301700,
+              "duration": 83059200,
               "status": "passed"
             },
             "line": 5,
@@ -3827,7 +3828,7 @@
           },
           {
             "result": {
-              "duration": 100216500,
+              "duration": 115218900,
               "status": "passed"
             },
             "line": 6,
@@ -3845,7 +3846,7 @@
           },
           {
             "result": {
-              "duration": 84517600,
+              "duration": 76749200,
               "status": "passed"
             },
             "line": 7,
@@ -3863,7 +3864,7 @@
           },
           {
             "result": {
-              "duration": 49491800,
+              "duration": 52405000,
               "status": "passed"
             },
             "line": 8,
@@ -3876,7 +3877,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid password[ provided]\u003e but was:\u003cInvalid password[]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.RegistrationSteps.the_user_should_get_a_browser_alert(RegistrationSteps.java:56)\r\n\tat ✽.the user should get a browser alert \"Invalid password provided\"(classpath:features/registration.feature:9)\r\n",
-              "duration": 7621200,
+              "duration": 5005900,
               "status": "failed"
             },
             "line": 9,
@@ -3906,11 +3907,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:48.545Z",
+        "start_timestamp": "2024-12-27T09:19:54.627Z",
         "before": [
           {
             "result": {
-              "duration": 17236200,
+              "duration": 14664100,
               "status": "passed"
             },
             "match": {
@@ -3927,7 +3928,7 @@
         "steps": [
           {
             "result": {
-              "duration": 32551100,
+              "duration": 30472300,
               "status": "passed"
             },
             "line": 4,
@@ -3939,7 +3940,7 @@
           },
           {
             "result": {
-              "duration": 82589500,
+              "duration": 84471100,
               "status": "passed"
             },
             "line": 5,
@@ -3951,7 +3952,7 @@
           },
           {
             "result": {
-              "duration": 109692300,
+              "duration": 122900200,
               "status": "passed"
             },
             "line": 6,
@@ -3969,7 +3970,7 @@
           },
           {
             "result": {
-              "duration": 172422400,
+              "duration": 186731800,
               "status": "passed"
             },
             "line": 7,
@@ -3987,7 +3988,7 @@
           },
           {
             "result": {
-              "duration": 50395800,
+              "duration": 45989700,
               "status": "passed"
             },
             "line": 8,
@@ -4000,7 +4001,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid password[ provided]\u003e but was:\u003cInvalid password[]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.RegistrationSteps.the_user_should_get_a_browser_alert(RegistrationSteps.java:56)\r\n\tat ✽.the user should get a browser alert \"Invalid password provided\"(classpath:features/registration.feature:9)\r\n",
-              "duration": 8722300,
+              "duration": 9006000,
               "status": "failed"
             },
             "line": 9,
@@ -4018,6 +4019,7 @@
           },
           {
             "result": {
+              "duration": 1112100,
               "status": "skipped"
             },
             "line": 10,
@@ -4030,11 +4032,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:49.026Z",
+        "start_timestamp": "2024-12-27T09:19:55.128Z",
         "before": [
           {
             "result": {
-              "duration": 15021800,
+              "duration": 14105700,
               "status": "passed"
             },
             "match": {
@@ -4051,7 +4053,7 @@
         "steps": [
           {
             "result": {
-              "duration": 29530400,
+              "duration": 33274700,
               "status": "passed"
             },
             "line": 4,
@@ -4063,7 +4065,7 @@
           },
           {
             "result": {
-              "duration": 74414100,
+              "duration": 76766800,
               "status": "passed"
             },
             "line": 5,
@@ -4075,7 +4077,7 @@
           },
           {
             "result": {
-              "duration": 117604700,
+              "duration": 117043600,
               "status": "passed"
             },
             "line": 6,
@@ -4093,7 +4095,7 @@
           },
           {
             "result": {
-              "duration": 75484000,
+              "duration": 78398800,
               "status": "passed"
             },
             "line": 7,
@@ -4111,7 +4113,7 @@
           },
           {
             "result": {
-              "duration": 47095500,
+              "duration": 52141400,
               "status": "passed"
             },
             "line": 8,
@@ -4124,7 +4126,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid password[ provided]\u003e but was:\u003cInvalid password[]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.RegistrationSteps.the_user_should_get_a_browser_alert(RegistrationSteps.java:56)\r\n\tat ✽.the user should get a browser alert \"Invalid password provided\"(classpath:features/registration.feature:9)\r\n",
-              "duration": 7832200,
+              "duration": 6650700,
               "status": "failed"
             },
             "line": 9,
@@ -4154,11 +4156,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:49.401Z",
+        "start_timestamp": "2024-12-27T09:19:55.510Z",
         "before": [
           {
             "result": {
-              "duration": 15836500,
+              "duration": 12180800,
               "status": "passed"
             },
             "match": {
@@ -4175,7 +4177,7 @@
         "steps": [
           {
             "result": {
-              "duration": 29402600,
+              "duration": 35162900,
               "status": "passed"
             },
             "line": 4,
@@ -4187,7 +4189,7 @@
           },
           {
             "result": {
-              "duration": 79879200,
+              "duration": 79498000,
               "status": "passed"
             },
             "line": 5,
@@ -4199,7 +4201,7 @@
           },
           {
             "result": {
-              "duration": 109627400,
+              "duration": 114327700,
               "status": "passed"
             },
             "line": 6,
@@ -4217,7 +4219,7 @@
           },
           {
             "result": {
-              "duration": 76861500,
+              "duration": 82735200,
               "status": "passed"
             },
             "line": 7,
@@ -4235,7 +4237,7 @@
           },
           {
             "result": {
-              "duration": 49727000,
+              "duration": 48608100,
               "status": "passed"
             },
             "line": 8,
@@ -4248,7 +4250,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid password[ provided]\u003e but was:\u003cInvalid password[]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.RegistrationSteps.the_user_should_get_a_browser_alert(RegistrationSteps.java:56)\r\n\tat ✽.the user should get a browser alert \"Invalid password provided\"(classpath:features/registration.feature:9)\r\n",
-              "duration": 7496200,
+              "duration": 8390200,
               "status": "failed"
             },
             "line": 9,
@@ -4278,11 +4280,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:49.777Z",
+        "start_timestamp": "2024-12-27T09:19:55.897Z",
         "before": [
           {
             "result": {
-              "duration": 14458700,
+              "duration": 14169300,
               "status": "passed"
             },
             "match": {
@@ -4299,7 +4301,7 @@
         "steps": [
           {
             "result": {
-              "duration": 28461900,
+              "duration": 34343300,
               "status": "passed"
             },
             "line": 4,
@@ -4311,7 +4313,7 @@
           },
           {
             "result": {
-              "duration": 80487400,
+              "duration": 76741500,
               "status": "passed"
             },
             "line": 5,
@@ -4323,7 +4325,7 @@
           },
           {
             "result": {
-              "duration": 110310900,
+              "duration": 123715800,
               "status": "passed"
             },
             "line": 6,
@@ -4341,7 +4343,7 @@
           },
           {
             "result": {
-              "duration": 67652200,
+              "duration": 69687900,
               "status": "passed"
             },
             "line": 7,
@@ -4359,7 +4361,7 @@
           },
           {
             "result": {
-              "duration": 46466000,
+              "duration": 45971300,
               "status": "passed"
             },
             "line": 8,
@@ -4372,7 +4374,7 @@
           {
             "result": {
               "error_message": "org.junit.ComparisonFailure: expected:\u003cInvalid password[ provided]\u003e but was:\u003cInvalid password[]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.revature.steps.RegistrationSteps.the_user_should_get_a_browser_alert(RegistrationSteps.java:56)\r\n\tat ✽.the user should get a browser alert \"Invalid password provided\"(classpath:features/registration.feature:9)\r\n",
-              "duration": 7138000,
+              "duration": 5830600,
               "status": "failed"
             },
             "line": 9,
@@ -4402,11 +4404,11 @@
         ]
       },
       {
-        "start_timestamp": "2024-12-27T06:38:50.136Z",
+        "start_timestamp": "2024-12-27T09:19:56.272Z",
         "before": [
           {
             "result": {
-              "duration": 13933100,
+              "duration": 14279000,
               "status": "passed"
             },
             "match": {
@@ -4423,7 +4425,7 @@
         "steps": [
           {
             "result": {
-              "duration": 16387000,
+              "duration": 18553800,
               "status": "passed"
             },
             "line": 29,
@@ -4435,7 +4437,7 @@
           },
           {
             "result": {
-              "duration": 81389600,
+              "duration": 76590100,
               "status": "passed"
             },
             "line": 30,
@@ -4447,7 +4449,7 @@
           },
           {
             "result": {
-              "duration": 6701700,
+              "duration": 5130600,
               "status": "passed"
             },
             "line": 31,
