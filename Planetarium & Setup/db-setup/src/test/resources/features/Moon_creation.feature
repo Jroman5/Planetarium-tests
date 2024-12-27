@@ -12,7 +12,7 @@ Feature: User Moon Creation
     Examples:
       |moon_name|planet_id|file|
       |1aA _-|1|C:\Programming\projects\planetarium\Planetarium & Setup\db-setup\src\test\resources\TestImages\ValidmoonJpeg.jpg|
-      |aA1 _-|1|C:\Programming\projects\planetarium\Planetarium & Setup\db-setup\src\test\resources\TestImages\ValidMoonPng.png|
+      |1aA _-|1|C:\Programming\projects\planetarium\Planetarium & Setup\db-setup\src\test\resources\TestImages\ValidMoonPng.png|
 
 
   Scenario Outline: Moon Creation failure

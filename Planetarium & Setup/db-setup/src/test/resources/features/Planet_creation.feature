@@ -25,7 +25,7 @@ Feature: User Planet Creation
       |1aA _-|C:\Programming\projects\planetarium\Planetarium & Setup\db-setup\src\test\resources\TestImages\InvalidImage.txt|invalid file type|
       |Abcdefghi12345678901234567890_-|C:\Programming\projects\planetarium\Planetarium & Setup\db-setup\src\test\resources\TestImages\validPlanetJPEG.jpg|Invalid planet name|
       |1aA _-@|C:\Programming\projects\planetarium\Planetarium & Setup\db-setup\src\test\resources\TestImages\ValidMoonPng.png|Invalid planet name|
-      |1aA _-|C:\Programming\projects\planetarium\Planetarium & Setup\db-setup\src\test\resources\TestImages\validPlanetJPEG.jpg|Invalid planet name|
+      |Earth|C:\Programming\projects\planetarium\Planetarium & Setup\db-setup\src\test\resources\TestImages\validPlanetJPEG.jpg|Invalid planet name|
 
 
 
