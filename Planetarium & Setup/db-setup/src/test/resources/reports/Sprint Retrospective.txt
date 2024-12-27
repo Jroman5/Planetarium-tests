@@ -12,4 +12,4 @@ Areas to Improve:
 
 What still needs to be completed:
 	
-	The test summary report still needs to be generated as well as the Acceptance Testing Summary.
+	The test summary report still needs to be generated as well as the Acceptance Testing Summary and Jira boards need to be updated with the issues.
