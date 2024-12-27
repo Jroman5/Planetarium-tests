@@ -1,0 +1,15 @@
+Sprint Retrospective
+Things that went well:
+	The separation of the User stories helped organized the test cases making the test case implementation smooth. The initial setup for the for the application being tested also went well and the overall structure of the project made it easier to implement the test cases.
+
+Challenges:
+	Testing to make sure that the celestial bodies table was being updated properly was a big challenge during this sprint. This was mostly because getting the values from the table consistently is difficult. This made testing for moon and planet handling difficult. Translating the acceptance criteria into the feature files and step definitions also posed a bit of a challenge due to the inexperience with cucumber. This made it difficult to focus on implementation as the acceptance criteria was updated along with the implementation to account for missing steps.
+
+Areas to Improve:
+	Time management: During the sprint a lot of the time was spent on planning the test cases leaving little time for the implementation and reports.
+	Project organization: Throughout the sprint the Jira board was not used as well as it could have been to track the progress.
+	Tool Utilization: A lot of time was spent looking at documentation and reviewing class content in order to understand either Cucumber or Selenium, being more familiar 			with the tools can help improve test case development time.
+
+What still needs to be completed:
+	
+	The test summary report still needs to be generated as well as the Acceptance Testing Summary.
