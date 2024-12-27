@@ -13,6 +13,7 @@ public class PlanetCreationSteps {
     @Given("the user is logged in the planetarium")
     public void the_user_is_logged_in_the_planetarium() {
         // Write code here that turns the phrase above into concrete actions
+
         TestRunner.loginPage.goToLoginPage();
         TestRunner.loginPage.setUpLoggedInUser();
 

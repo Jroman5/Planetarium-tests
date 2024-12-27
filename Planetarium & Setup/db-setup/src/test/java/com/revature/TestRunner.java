@@ -1,6 +1,8 @@
 package com.revature;
 
+import com.revature.pom.HomePage;
 import com.revature.pom.LoginPage;
+import com.revature.pom.RegistrationPage;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 import org.junit.AfterClass;
@@ -25,16 +27,24 @@ public class TestRunner {
 
     public static WebDriver webDriver = null;
     public static LoginPage loginPage;
+    public static RegistrationPage registrationPage;
+    public static HomePage homePage;
     public static WebDriverWait wait;
+
+    public static final String moonValue = "moon";
+    public static final String planetValue = "planet";
 
 
 
     @BeforeClass
     public static void setup(){
         webDriver = new ChromeDriver();
-        webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(1));
-        wait = new WebDriverWait(webDriver, Duration.ofSeconds(2));
+        webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
+        wait = new WebDriverWait(webDriver, Duration.ofSeconds(4));
         loginPage = new LoginPage(webDriver);
+        registrationPage = new RegistrationPage(webDriver);
+        homePage = new HomePage(webDriver);
+
     }
 
     @AfterClass
