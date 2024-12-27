@@ -8,7 +8,7 @@ Challenges:
 Areas to Improve:
 	Time management: During the sprint a lot of the time was spent on planning the test cases leaving little time for the implementation and reports.
 	Project organization: Throughout the sprint the Jira board was not used as well as it could have been to track the progress.
-	Tool Utilization: A lot of time was spent looking at documentation and reviewing class content in order to understand either Cucumber or Selenium, being more familiar 			with the tools can help improve test case development time.
+	Tool Utilization: A lot of time was spent looking at documentation and reviewing class content in order to understand either Cucumber or Selenium, being more familiar with the tools can help improve test case development time.
 
 What still needs to be completed:
 	
