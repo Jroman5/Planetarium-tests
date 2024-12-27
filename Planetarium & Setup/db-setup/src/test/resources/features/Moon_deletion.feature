@@ -1,14 +1,16 @@
 Feature: User Moon Deletion
   Scenario: Valid Moon name Deletion
     Given the User is logged in
-    When the user chooses to delete a Moon
-    And inputs a valid name
+    And is on the moon page
+    When inputs a valid name
+    And the user clicks the delete button
     Then the table should refresh and reflect the changes
 
   Scenario: Invalid Moon Name Deletion
-    Given the user is logged in
-    When the user chooses to delete a moon
-    And inputs an invalid name
+    Given the User is logged in
+    And is on the moon page
+    When inputs an invalid name
+    And the user clicks the delete button
     Then the browser should show an alert message for an invalid name
     And should return to the home page
 

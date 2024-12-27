@@ -5,6 +5,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import java.util.List;
+
 public class LoginPage {
 
     private WebDriver driver;
@@ -21,6 +23,8 @@ public class LoginPage {
 
     @FindBy(tagName = "a")
     private WebElement registrationLink;
+
+
 
 
     public LoginPage(WebDriver driver){

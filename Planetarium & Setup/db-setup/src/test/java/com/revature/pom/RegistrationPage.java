@@ -15,7 +15,7 @@ public class RegistrationPage {
     @FindBy(id="passwordInput")
     private WebElement password;
 
-    @FindBy(tagName = "input")
+    @FindBy(xpath = "html/body/div/form/input[3]")
     private WebElement submitButton;
 
     @FindBy(tagName = "a")
@@ -24,6 +24,14 @@ public class RegistrationPage {
     public RegistrationPage(WebDriver driver){
         this.driver = driver;
         PageFactory.initElements(driver, this);
+    }
+
+    public void goToRegistrationPage(){
+        driver.get("http://localhost:8080/register");
+    }
+
+    public void goToLoginPage(){
+        driver.get("http://localhost:8080/");
     }
 
     public void setUsername(String username){
@@ -38,7 +46,7 @@ public class RegistrationPage {
         this.submitButton.click();
     }
 
-    public void returnToLogin(){
+    public void clickLoginLink(){
         this.loginHref.click();
     }
 }
